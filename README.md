@@ -1,6 +1,6 @@
 # code-notebooks
 
-A place to store my code for my medium articles
+A place to store my code for my medium articles. Find all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d)
 
 Article | Notebook | Collab
 :---: |:---: | :---:
