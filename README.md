@@ -4,8 +4,8 @@ A place to store my code for my medium articles. Find all my articles [here](htt
 
 Article | Notebook | Collab
 :---: |:---: | :---:
-[Building an XGBoost Model to Predict Video Popularity](https://tinyurl.com/yzr3k6sm)  | [download](video_popularity.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/ydrmktxd)
-[Data Cleaning with Python](https://tinyurl.com/yfhnxsy8)  | [download](video_popularity.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/yhfznaho)
-[Using Data Science to predict viral tweets](https://tinyurl.com/yh5pfsr7)  | [download](viraltweets.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/yfzf7e3k)
-[Ethereum Price Prediction with Python](https://tinyurl.com/yerr35a6) | [download](eth_prophet_forecasting.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/yh2gt8d7)
-[Scraping 100+ Free Data Science Books with Python](https://tinyurl.com/ygcwtfz2) | [download](100_dsbooks_web_scraping_tutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/ygdg2q9a)
+[Building an XGBoost Model to Predict Video Popularity](https://tinyurl.com/yzr3k6sm)  | [download](notebooks/video_popularity.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/ydrmktxd)
+[Data Cleaning with Python](https://tinyurl.com/yfhnxsy8)  | [download](notebooks/data_cleaning.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/yhfznaho)
+[Using Data Science to predict viral tweets](https://tinyurl.com/yh5pfsr7)  | [download](notebooks/viraltweets.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/yfzf7e3k)
+[Ethereum Price Prediction with Python](https://tinyurl.com/yerr35a6) | [download](notebooks/eth_prophet_forecasting.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/yh2gt8d7)
+[Scraping 100+ Free Data Science Books with Python](https://tinyurl.com/ygcwtfz2) | [download](notebooks/web-scraping-ds-books.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/ygdg2q9a)
