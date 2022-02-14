@@ -2,6 +2,8 @@
 
 A place to store my code for my medium articles. Find all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benthecoder)
+
 Article | Notebook | Collab
 :---: |:---: | :---:
 [Building an XGBoost Model to Predict Video Popularity](https://tinyurl.com/yzr3k6sm)  | [source](notebooks/video_popularity.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://tinyurl.com/ydrmktxd)
