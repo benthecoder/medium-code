@@ -5,7 +5,7 @@ A place to store my code for my medium articles.
 Find all my articles [here](https://benedictxneo.medium.com/all-my-articles-and-series-b4b454a1435d)
 Follow me on [twitter](https://twitter.com/benthecoder1)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/benthecoder)
+<a href="https://ko-fi.com/benthecoder"><img width="200rem" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11d6ea0473a3528b575b4_Button-3-p-1080.png"/></a>
 
 |                                                                           Article                                                                           |                            Notebook                            |                                                   Collab                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
